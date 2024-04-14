@@ -5,6 +5,7 @@ This repository contains my personal notes on the MERN (MongoDB, Express.js, Rea
 
 ## COURSE NAME
 MERN
+![Screenshot 2024-04-14 114414](https://github.com/abvinnovator/Mern-Notes/assets/144054938/1a8bee46-26f3-4100-9217-7bf6394d5c23)
 
 ## Cheat codes 🧑‍💻
 
